@@ -35,5 +35,5 @@ An Android + Flask-based system that allows users to upload skin images and rece
 ### Run Server:
 ```bash
 pip install -r requirements.txt
-python app.py
+python predict_image.py
 
